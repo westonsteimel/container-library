@@ -1,0 +1,78 @@
+[submodule "curl"]
+	path = curl
+	url = git@github.com:westonsteimel/container-library-curl.git
+[submodule "firefox"]
+	path = firefox
+	url = git@github.com:westonsteimel/container-library-firefox.git
+[submodule "ledger"]
+	path = ledger
+	url = git@github.com:westonsteimel/container-library-ledger.git
+[submodule "tor-browser"]
+	path = tor-browser
+	url = git@github.com:westonsteimel/container-library-tor-browser.git
+[submodule "python"]
+	path = python
+	url = git@github.com:westonsteimel/container-library-python.git
+[submodule "keepassxc"]
+	path = keepassxc
+	url = git@github.com:westonsteimel/container-library-keepassxc.git
+[submodule "exa"]
+	path = exa
+	url = git@github.com:westonsteimel/container-library-exa.git
+[submodule "hexyl"]
+	path = hexyl
+	url = git@github.com:westonsteimel/container-library-hexyl.git
+[submodule "bat"]
+	path = bat
+	url = git@github.com:westonsteimel/container-library-bat.git
+[submodule "httpie"]
+	path = httpie
+	url = git@github.com:westonsteimel/container-library-httpie.git
+[submodule "procs"]
+	path = procs
+	url = git@github.com:westonsteimel/container-library-procs.git
+[submodule "youtube-dl"]
+	path = youtube-dl
+	url = git@github.com:westonsteimel/container-library-youtube-dl.git
+[submodule "vlc"]
+	path = vlc
+	url = git@github.com:westonsteimel/container-library-vlc.git
+[submodule "stellarium"]
+	path = stellarium
+	url = git@github.com:westonsteimel/container-library-stellarium.git
+[submodule "jq"]
+	path = jq
+	url = git@github.com:westonsteimel/container-library-jq.git
+[submodule "rust-static-builder"]
+	path = rust-static-builder
+	url = git@github.com:westonsteimel/container-library-rust-static-builder.git
+[submodule "htop"]
+	path = htop
+	url = git@github.com:westonsteimel/container-library-htop.git
+[submodule "zaproxy"]
+	path = zaproxy
+	url = git@github.com:westonsteimel/container-library-zaproxy.git
+[submodule "celestia"]
+	path = celestia
+	url = git@github.com:westonsteimel/container-library-celestia.git
+[submodule "fd"]
+	path = fd
+	url = git@github.com:westonsteimel/container-library-fd.git
+[submodule "tailscale"]
+	path = tailscale
+	url = git@github.com:westonsteimel/container-library-tailscale.git
+[submodule "runc"]
+	path = runc
+	url = git@github.com:westonsteimel/container-library-runc.git
+[submodule "containerd"]
+	path = containerd
+	url = git@github.com:westonsteimel/container-library-containerd.git
+[submodule "xh"]
+	path = xh
+	url = git@github.com:westonsteimel/container-library-xh.git
+[submodule "jql"]
+	path = jql
+	url = git@github.com:westonsteimel/container-library-jql.git
+[submodule "rustls-ffi"]
+	path = rustls-ffi
+	url = git@github.com:westonsteimel/container-library-rustls-ffi.git
